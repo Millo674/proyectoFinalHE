@@ -27,7 +27,7 @@ Una vez que hayas instalado y configurado DVWA correctamente, sigue estos pasos:
 - Se recomienda conservar una copia de seguridad de los archivos originales antes de reemplazarlos.
 - No utilices las modificaciones de este proyecto en sistemas sin autorización.
 
-# Nota
+## Nota
 
 si quieres replicar el infomer recuerda ir a DVWA Security y cambia la configuracion de la dificaul por 'low' ya que por defecto se encuentras en 'impossible'
 
