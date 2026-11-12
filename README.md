@@ -29,7 +29,7 @@ Una vez que hayas instalado y configurado DVWA correctamente, sigue estos pasos:
 
 ## Nota
 
-si quieres replicar el infomer recuerda ir a DVWA Security y cambia la configuracion de la dificaul por ´low´ ya que por defecto se encuentras en ´impossible´
+si quieres replicar el infomer recuerda ir a DVWA Security y cambia la configuracion de la dificaul por 'low' ya que por defecto se encuentras en 'impossible'
 
 ## Objetivo del repositorio
 
